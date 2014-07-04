@@ -4,4 +4,4 @@ matsitka.github.io
 A few live projects from [matsitka](http://matsitka.com).
 
 - **Angular Color Theme Change** - [http://matsitka.github.io/angular-colors/](http://matsitka.github.io/angular-colors/)
-- More coming soon
+- **Suggest an idea** - [@matsitka](https://twitter.com/matsitka)
